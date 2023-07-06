@@ -2,7 +2,7 @@
     "test": "Test",
     "typed":
     [
-        { "desktop": "I build desktop, mobile applications." },
+        { "desktop": "I build desktop and web applications." },
         { "web": "I build web interfaces." },
         { "restfull": "I build RESTFUL and GraphQL APIs." },
         { "games": "I build games with Unreal, Frostbite and Unity engines." },
@@ -15,7 +15,7 @@
     "headers":
     [
         { "heading": "What do i make and who am i?" },
-        { "customers": "Happy Customers" },
+        { "customers": "Passion for Developing" },
         { "projects": "Completed Projects" },
         { "experience": "Years Of Experience" },
         { "honors": "Honors and Awards" }
@@ -23,7 +23,7 @@
     "about":
     [
         { "heading": "About me" },
-        { "paragraph": "Hamed is a big enthusiast of unsolved problems and a highly qualified software engineer with more than five years of experience with web, mobile, and software development working for companies from small startups to big ones. He enjoys working with people, is not afraid of changes, is very good at interpersonal skills, and is always open to new challenges. He has experience working with PHP and C++ as well as their frameworks such as Poco and Qt, but he focuses on JavaScript-related technologies like Typescript, NodeJS, DenoJS, NestJS, NextJS, React and React Native." },
+        { "paragraph": "Hi, I am Shashank, a big enthusiast of unsolved problems and a final year cse with experience in web and software development working for companies from small startups to big ones. He enjoys working with people, is not afraid of changes, is very good at interpersonal skills, and is always open to new challenges. He has experience working with PHP and C++ as well as their frameworks such as Poco and Qt, but he focuses on JavaScript-related technologies like Typescript, NodeJS, DenoJS, NestJS, NextJS, React and React Native." },
         { "fat": "Frameworks and Technologies" }
     ],
     "services":
