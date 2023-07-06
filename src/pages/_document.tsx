@@ -17,27 +17,27 @@ class IQDocument extends Document
 
                     <meta name='language' content='en'/>
                     <meta name='Classification' content='Portfolio'/>
-                    <meta name='subject' content='IntelligentQuantum Full-Stack Developer & Graphic Designer'/>
-                    <meta name='description' content="IntelligentQuantum Full-Stack Developer & Graphic Designer. IntelligentQuantum focuses on JavaScript-related technologies like Typescript, NodeJS and React. IntelligentQuantum is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
-                    <meta name='keywords' content='IntelligentQuantum, IntelligentQuantum Portfolio, Full-Stack Developer, Developer, Iran Shiraz, JavaScript, TypeScript, Graphic Designer'/>
-                    <meta name='author' content='IntelligentQuantum'/>
+                    <meta name='subject' content='stellarshank Full-Stack Developer & Graphic Designer'/>
+                    <meta name='description' content="stellarshank Full-Stack Developer & Graphic Designer. stellarshank focuses on JavaScript-related technologies like Typescript, NodeJS and React. stellarshank is also an experienced graphic designer and proficient in Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro and Gimp software's."/>
+                    <meta name='keywords' content='stellarshank, stellarshank Portfolio, Full-Stack Developer, Developer, Iran Shiraz, JavaScript, TypeScript, Graphic Designer'/>
+                    <meta name='author' content='stellarshank'/>
 
                     <meta property='og:type' content='website'/>
-                    <meta property='og:url' content='https://intelligentquantum.dev/'/>
-                    <meta property='og:title' content='IntelligentQuantum'/>
-                    <meta property='og:description' content='IntelligentQuantum Full-Stack Developer & Graphic Designer'/>
-                    <meta property='og:image' content='https://intelligentquantum.dev/favicon.png'/>
+                    <meta property='og:url' content='https://stellarshank.dev/'/>
+                    <meta property='og:title' content='stellarshank'/>
+                    <meta property='og:description' content='stellarshank Full-Stack Developer & Graphic Designer'/>
+                    <meta property='og:image' content='https://stellarshank.dev/favicon.png'/>
 
                     <meta property='twitter:card'/>
-                    <meta property='twitter:url' content='https://intelligentquantum.dev/'/>
-                    <meta property='twitter:title' content='IntelligentQuantum'/>
-                    <meta property='twitter:description' content='IntelligentQuantum Full-Stack Developer & Graphic Designer'/>
-                    <meta property='twitter:image' content='https://intelligentquantum.dev/favicon.png'/>
+                    <meta property='twitter:url' content='https://stellarshank.dev/'/>
+                    <meta property='twitter:title' content='stellarshank'/>
+                    <meta property='twitter:description' content='stellarshank Full-Stack Developer & Graphic Designer'/>
+                    <meta property='twitter:image' content='https://stellarshank.dev/favicon.png'/>
 
                     <link rel='icon' href='/favicon.png' />
-                    <link rel='apple-touch-icon' href='https://intelligentquantum.dev/favicon.png'/>
-                    <link rel='manifest' href='https://intelligentquantum.dev/manifest.json'/>
-                    <link rel='canonical' href='https://intelligentquantum.dev' />
+                    <link rel='apple-touch-icon' href='https://stellarshank.dev/favicon.png'/>
+                    <link rel='manifest' href='https://stellarshank.dev/manifest.json'/>
+                    <link rel='canonical' href='https://stellarshank.dev' />
                     <link rel='preconnect' href='https://fonts.googleapis.com' />
                     <link rel='preconnect' href='https://fonts.gstatic.com' crossOrigin='true' />
                     <link href='https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap' rel='stylesheet' />
@@ -49,16 +49,16 @@ class IQDocument extends Document
                             __html: JSON.stringify({
                                 '@context': 'https://schema.org/',
                                 '@type': 'Person',
-                                name: 'IntelligentQuantum',
+                                name: 'stellarshank',
                                 author:
                                         {
                                             '@type': 'Person',
-                                            name: 'IntelligentQuantum'
+                                            name: 'stellarshank'
                                         },
-                                email: 'mailto:intelligentquantum@protonmail.com',
-                                image: 'https://intelligentquantum.dev/images/IntelligentQuantum.png',
+                                email: 'mailto:stellarshank@protonmail.com',
+                                image: 'https://stellarshank.dev/images/stellarshank.png',
                                 jobTitle: 'Full-Stack Developer',
-                                url: 'https://intelligentquantum.dev'
+                                url: 'https://stellarshank.dev'
                             })
                         }}
                     />

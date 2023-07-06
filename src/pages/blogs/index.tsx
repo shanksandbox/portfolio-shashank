@@ -15,7 +15,7 @@ const Blogs: NextPage = (props: any) =>
     return (
         <Fragment>
             <Head>
-                <title>IntelligentQuantum &mdash; Blogs</title>
+                <title>stellarshank &mdash; Blogs</title>
             </Head>
 
             <section className={styles.blogs}>

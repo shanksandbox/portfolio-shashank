@@ -16,22 +16,22 @@ const Hobbies: NextPage = () =>
             <Head>
                 <meta name='Classification' content='Portfolio Hobbies'/>
                 <meta name='subject' content='Portfolio Hobbies'/>
-                <meta name='description' content='IntelligentQuantum Hobbies'/>
-                <meta name='keywords' content='IntelligentQuantum, IQ, Quantum, Intelligent, Hobbies'/>
-                <meta name='author' content='IntelligentQuantum'/>
+                <meta name='description' content='stellarshank Hobbies'/>
+                <meta name='keywords' content='stellarshank, IQ, Quantum, Intelligent, Hobbies'/>
+                <meta name='author' content='stellarshank'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://intelligentquantum.dev/hobbies'/>
-                <meta property='og:title' content='IntelligentQuantum'/>
-                <meta property='og:description' content='IntelligentQuantum Hobbies'/>
-                <meta property='og:image' content='https://intelligentquantum.dev/favicon.png'/>
+                <meta property='og:url' content='https://stellarshank.dev/hobbies'/>
+                <meta property='og:title' content='stellarshank'/>
+                <meta property='og:description' content='stellarshank Hobbies'/>
+                <meta property='og:image' content='https://stellarshank.dev/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://intelligentquantum.dev/hobbies'/>
-                <meta property='twitter:title' content='IntelligentQuantum'/>
-                <meta property='twitter:description' content='IntelligentQuantum Hobbies'/>
+                <meta property='twitter:url' content='https://stellarshank.dev/hobbies'/>
+                <meta property='twitter:title' content='stellarshank'/>
+                <meta property='twitter:description' content='stellarshank Hobbies'/>
 
-                <title>IntelligentQuantum &mdash; Hobbies</title>
+                <title>stellarshank &mdash; Hobbies</title>
             </Head>
 
             <section className={styles.hobbies}>

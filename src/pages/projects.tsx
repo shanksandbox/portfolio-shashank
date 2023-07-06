@@ -18,22 +18,22 @@ const Projects: NextPage = () =>
             <Head>
                 <meta name='Classification' content='Portfolio Project'/>
                 <meta name='subject' content='Portfolio Project'/>
-                <meta name='description' content='IntelligentQuantum Project'/>
-                <meta name='keywords' content='IntelligentQuantum, IQ, Quantum, Intelligent, Project'/>
-                <meta name='author' content='IntelligentQuantum'/>
+                <meta name='description' content='stellarshank Project'/>
+                <meta name='keywords' content='stellarshank, IQ, Quantum, Intelligent, Project'/>
+                <meta name='author' content='stellarshank'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://intelligentquantum.dev/projects'/>
-                <meta property='og:title' content='IntelligentQuantum'/>
-                <meta property='og:description' content='IntelligentQuantum Projects'/>
-                <meta property='og:image' content='https://intelligentquantum.dev/favicon.png'/>
+                <meta property='og:url' content='https://stellarshank.dev/projects'/>
+                <meta property='og:title' content='stellarshank'/>
+                <meta property='og:description' content='stellarshank Projects'/>
+                <meta property='og:image' content='https://stellarshank.dev/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://intelligentquantum.dev/Projects'/>
-                <meta property='twitter:title' content='IntelligentQuantum'/>
-                <meta property='twitter:description' content='IntelligentQuantum Projects'/>
+                <meta property='twitter:url' content='https://stellarshank.dev/Projects'/>
+                <meta property='twitter:title' content='stellarshank'/>
+                <meta property='twitter:description' content='stellarshank Projects'/>
 
-                <title>IntelligentQuantum &mdash; Projects</title>
+                <title>stellarshank &mdash; Projects</title>
             </Head>
 
             <section className={styles.projects}>

@@ -43,7 +43,7 @@ const Home: NextPage = (props: any) =>
     return (
         <Fragment>
             <Head>
-                <title>IntelligentQuantum &mdash; Full-Stack Developer</title>
+                <title>stellarshank &mdash; Full-Stack Developer</title>
             </Head>
 
             <section className={styles.home}>
@@ -266,8 +266,8 @@ const Home: NextPage = (props: any) =>
 
 export const getStaticProps: GetStaticProps = async() =>
 {
-    const repositories = await axios.get('https://api.github.com/users/IntelligentQuantum/repos');
-    const organizations = await axios.get('https://api.github.com/users/IntelligentQuantum/orgs');
+    const repositories = await axios.get('https://api.github.com/users/stellarshank/repos');
+    const organizations = await axios.get('https://api.github.com/users/stellarshank/orgs');
 
     if (!repositories.data || !organizations.data)
         return { notFound: true };

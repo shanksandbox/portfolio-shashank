@@ -17,7 +17,7 @@ const OrganizationCard = ({ login, avatarUrl }: any) =>
                 <span>
                     <Image
                         src={avatarUrl}
-                        alt={`IntelligentQuantum ${ login }`}
+                        alt={`stellarshank ${ login }`}
                         layout='intrinsic'
                         width={120}
                         height={120}

@@ -9,13 +9,13 @@
         },
         {
             "id": 2,
-            "name": "CSS",
+            "name": "Javascript",
             "progress": "80%",
             "progressActive": "80%"
         },
         {
             "id": 3,
-            "name": "Javascript",
+            "name": "Python",
             "progress": "82%",
             "progressActive": "82%"
         },

@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://intelligentquantum.dev/sitemap.xml
+Sitemap: https://stellarshank.dev/sitemap.xml

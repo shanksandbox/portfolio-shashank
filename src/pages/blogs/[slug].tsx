@@ -19,7 +19,7 @@ const BlogSlug: NextPage = (props: any) =>
     return (
         <Fragment>
             <Head>
-                <title>IntelligentQuantum &mdash;</title>
+                <title>stellarshank &mdash;</title>
             </Head>
 
             <section className={styles.blogs}>

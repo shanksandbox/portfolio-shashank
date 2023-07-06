@@ -1,6 +1,6 @@
 {
-    "short_name": "intelligentquantum",
-    "name": "IntelligentQuantum",
+    "short_name": "stellarshank",
+    "name": "stellarshank",
     "icons":
     [
         {
@@ -9,7 +9,7 @@
             "type": "image/x-icon"
         }
     ],
-    "start_url": "https://intelligentquantum.dev",
+    "start_url": "https://stellarshank.dev",
     "display": "standalone",
     "theme_color": "#5294E2",
     "background_color": "#323540"

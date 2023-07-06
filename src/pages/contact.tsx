@@ -35,22 +35,22 @@ const Contact: NextPage = () =>
             <Head>
                 <meta name='Classification' content='Contact'/>
                 <meta name='subject' content='Contact'/>
-                <meta name='description' content='IntelligentQuantum Contact'/>
-                <meta name='keywords' content='IntelligentQuantum, IQ, Quantum, Intelligent, Contact'/>
-                <meta name='author' content='IntelligentQuantum'/>
+                <meta name='description' content='stellarshank Contact'/>
+                <meta name='keywords' content='stellarshank, IQ, Quantum, Intelligent, Contact'/>
+                <meta name='author' content='stellarshank'/>
 
                 <meta property='og:type' content='website'/>
-                <meta property='og:url' content='https://intelligentquantum.dev/contact'/>
-                <meta property='og:title' content='IntelligentQuantum'/>
-                <meta property='og:description' content='IntelligentQuantum Contact'/>
-                <meta property='og:image' content='https://intelligentquantum.dev/favicon.png'/>
+                <meta property='og:url' content='https://stellarshank.dev/contact'/>
+                <meta property='og:title' content='stellarshank'/>
+                <meta property='og:description' content='stellarshank Contact'/>
+                <meta property='og:image' content='https://stellarshank.dev/favicon.png'/>
 
                 <meta property='twitter:card' content='summary'/>
-                <meta property='twitter:url' content='https://intelligentquantum.dev/contact'/>
-                <meta property='twitter:title' content='IntelligentQuantum'/>
-                <meta property='twitter:description' content='IntelligentQuantum Contact'/>
+                <meta property='twitter:url' content='https://stellarshank.dev/contact'/>
+                <meta property='twitter:title' content='stellarshank'/>
+                <meta property='twitter:description' content='stellarshank Contact'/>
 
-                <title>IntelligentQuantum &mdash; Contact with me</title>
+                <title>stellarshank &mdash; Contact with me</title>
             </Head>
 
             <section className={styles.contact}>
@@ -60,15 +60,15 @@ const Contact: NextPage = () =>
                         <ul className={styles.contactCardsCardList}>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Residence:</span>
-                                <span>Iran</span>
+                                <span>India</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>City:</span>
-                                <span>Shiraz</span>
+                                <span>Greater Nodia</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Age:</span>
-                                <span>{new Date().getFullYear() - 1997}</span>
+                                <span>{new Date().getFullYear() - 2003}</span>
                             </li>
                         </ul>
                     </div>
@@ -76,15 +76,15 @@ const Contact: NextPage = () =>
                         <ul className={styles.contactCardsCardList}>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Gmail:</span>
-                                <a href="mailto:Intelligentquantum@Gmail.com">IntelligentQuantum</a>
+                                <a href="mailto:stellarshank.dev@Gmail.com">stellarshank</a>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>ProtonMail:</span>
-                                <a href="mailto:Intelligentquantum@ProtonMail.com">IntelligentQuantum</a>
+                                <a href="mailto:stellarshank@ProtonMail.com">stellarshank</a>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Discord:</span>
-                                <span>IntelligentQuantum#6439</span>
+                                <span>stellarshank#6439</span>
                             </li>
                         </ul>
                     </div>
@@ -92,7 +92,7 @@ const Contact: NextPage = () =>
                         <ul className={styles.contactCardsCardList}>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Mobile:</span>
-                                <span>+98 9170459330</span>
+                                <span>+91 9693592679</span>
                             </li>
                             <li className={styles.contactCardsCardListItem}>
                                 <span>Whatsapp:</span>
