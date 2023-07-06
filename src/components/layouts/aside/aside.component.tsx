@@ -89,33 +89,7 @@ const Aside = () =>
 
                 <div className={styles.aside__divider} />
 
-                <div className={styles.asideInformationPersonalLanguages}>
-                    <div className={styles.asideInformationPersonalLanguagesContent}>
-                        <svg viewBox='0 0 36 36'>
-                            <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831'/>
-                            <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831' strokeDasharray='100, 100'/>
-                            <text x='18' y='20.35'>100%</text>
-                        </svg>
-                        <span>{t('common:aside.5.English')}</span>
-                    </div>
-                    <div className={styles.asideInformationPersonalLanguagesContent}>
-                        <svg viewBox='0 0 36 36'>
-                            <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831'/>
-                            <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831' strokeDasharray='50, 100'/>
-                            <text x='18' y='20.35'>100%</text>
-                        </svg>
-                        <span>{t('common:aside.6.Hindi')}</span>
-                    </div>
-                    <div className={styles.asideInformationPersonalLanguagesContent}>
-                        <svg viewBox='0 0 36 36'>
-                            <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831'/>
-                            <path d='M18 2.0845a 15.9155 15.9155 0 0 1 0 31.831a 15.9155 15.9155 0 0 1 0 -31.831' strokeDasharray='30, 100'/>
-                            <text x='18' y='20.35'>30%</text>
-                        </svg>
-                        <span>{t('common:aside.7.Sanskrit')}</span>
-                    </div>
-                </div>
-
+               
                 <div className={styles.aside__divider} />
 
                 <div className={styles.asideInformationSkills}>
